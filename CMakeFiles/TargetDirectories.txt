@@ -1,0 +1,3 @@
+/home/tom/projects/cpp/sdl_gpu/CMakeFiles/sdl_gpu_test.dir
+/home/tom/projects/cpp/sdl_gpu/CMakeFiles/edit_cache.dir
+/home/tom/projects/cpp/sdl_gpu/CMakeFiles/rebuild_cache.dir
